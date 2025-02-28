@@ -1,3 +1,13 @@
+<?php
+session_start();
+
+include("connection.php");
+
+if (!isset($_SESSION['username'])) {
+    header("location:login.php");
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -43,18 +53,23 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#contact">contact</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="login.php">login</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="signup.php">signup</a>
-                        </li>
+                       >
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
+ <div class="name">
+        <center>Welcome
+            <?php
+             // echo $_SESSION['valid'];
+            
+            echo $_SESSION['username'];
 
+            ?>
+            !
+        </center>
+    </div>
     <!-- hero section  -->
 
     <section id="home" class="hero-section">

@@ -21,7 +21,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 
-$sql = "SELECT * FROM workers ORDER BY id DESC";
+$sql = "SELECT * FROM workers ORDER BY PRIMARY_KEY DESC";
 
 echo '
   <div class = "container">
@@ -39,7 +39,7 @@ echo '
   
 if ($result = $conn->query($sql)) {
     while ($row = $result->fetch_assoc()) {
-        $row_id = $row["id"];
+        $row_id = $row["PRIMARY_KEY"];
         $row_name = $row["name"];
         $row_contact = $row["contact"];
         echo '
