@@ -21,7 +21,7 @@
     <header class="navbar-section">
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><i class="bi bi-chat"></i> Brag Spot</a>
+                <a class="navbar-brand" href="#"><i class="bi bi-chat"></i> HouseHelp</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -61,10 +61,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12 text-content">
-                    <h1>the digital service you really want</h1>
-                    <p>We build effective strategies to help you reach customers and prospects across the entire web.
+                    <h1>Looking for househelp?</h1>
+                    <p>We build effective strategies to help you reach houseworkers and househelp in your locality.
                     </p>
-                    <button class="btn"><a href="#">Estimate Project</a></button>
+                    <button class="btn"><a href="worker-page.php">Worker List</a></button>
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12">
                     <img src="images/hero-image.png" alt="" class="img-fluid">
@@ -88,10 +88,10 @@
                                 <img src="images/research.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h4 class="card-title">Research</h4>
-                                    <p class="card-text">We build effective strategies to help you reach customers
+                                    <p class="card-text">We build effective strategies to help you reach househelp
                                         and
                                         prospects
-                                        across the entire.</p>
+                                        across your entire locality.</p>
                                 </div>
                             </div>
                         </div>
@@ -101,9 +101,7 @@
                                 <img src="images/brand.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h4 class="card-title">Branding</h4>
-                                    <p class="card-text">Brand identity represents the visual elements and assets
-                                        that
-                                        distinguish a brand.</p>
+                                    <p class="card-text">Brand identity given to each worker in your system, to help you differentiate.</p>
                                 </div>
                             </div>
                         </div>
@@ -116,10 +114,8 @@
                             <div class="card">
                                 <img src="images/ux.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h4 class="card-title">UI/UX Design</h4>
-                                    <p class="card-text">UI/UX design services focus on creating intuitive &
-                                        user-centric
-                                        interfaces for digital products.</p>
+                                    <h4 class="card-title">Worker First Policy</h4>
+                                    <p class="card-text">Our terms and conditions make sure that the rights of the workers are not breached and they are treated with respect.</p>
                                 </div>
                             </div>
                         </div>
@@ -128,10 +124,8 @@
                             <div class="card">
                                 <img src="images/app-development.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h4 class="card-title">Development</h4>
-                                    <p class="card-text">A concept is brought to life through the services various
-                                        stages, such
-                                        as planning, testing and deployment.</p>
+                                    <h4 class="card-title">Giving back</h4>
+                                    <p class="card-text">Giving the workers more opportunintes and learning matierial to further their prospects in life.</p>
                                 </div>
                             </div>
                         </div>
@@ -142,8 +136,7 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 text-content">
                     <h3>services</h3>
                     <h1>We can help you solve your problem through our service.</h1>
-                    <p>We are a brand strategy & digital design agency building brands that matter in culture with more
-                        than ten years of experience.</p>
+                    <p>We are an organization that will help you keep your time to yourself while making sure that the home you live in remains the same as you left it.</p>
                     <button class="btn">Explore Services</button>
                 </div>
 
@@ -161,10 +154,9 @@
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 text-content">
                     <h3>who we are</h3>
-                    <h1>Providing creative and technology services for growing brands.</h1>
+                    <h1>Providing creative and technology services for workers and clients.</h1>
 
-                    <p>Our company specializes in research, brand identity design, UI/UX design, development and graphic
-                        design. To help our clients improve their business, we work with them all over the world.</p>
+                    <p>Our organization makes sure that you get the perfect worker for the home and your loved ones.</p>
                     <button>learn more</button>
                 </div>
             </div>
@@ -177,25 +169,24 @@
         <div class="container">
             <div class="row text">
                 <div class="col-lg-6 col-md-12">
-                    <h3>our works</h3>
-                    <h1>Our latest project</h1>
+                    <h3>our offerings</h3>
+                    <h1>We provide the following</h1>
                     <hr>
                 </div>
                 <div class="col-lg-6 col-md-12">
-                    <p>We build product close to our heart. We make your idea to really and make your dream successful
-                        with awesome experience.</p>
+                    <p>We help you ge workers and domestic services that ensure our house becomes a home.</p>
                 </div>
             </div>
             <div class="row project">
 
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card">
-                        <img src="images/project1.jpg" class="card-img-top" alt="...">
+                        <img src="images/house-plastering-worker.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="text">
-                                <h4 class="card-title">SaaS Website</h4>
-                                <p class="card-text">Development. Jan 19,2022</p>
-                                <button>see project</button>
+                                <h4 class="card-title">Redevelopment services</h4>
+                                <p class="card-text">Last Interaction:Jan 19,2022</p>
+                                <button>more info</button>
                             </div>
                         </div>
                     </div>
@@ -203,12 +194,12 @@
 
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card">
-                        <img src="images/project2.jpg" class="card-img-top" alt="...">
+                        <img src="images/domestic-help.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="text">
-                                <h4 class="card-title">Travel Website</h4>
-                                <p class="card-text">UI/UX Jun 29,2023</p>
-                                <button>see project</button>
+                                <h4 class="card-title">Domestic Services</h4>
+                                <p class="card-text">Last interaction: Jun 29,2023</p>
+                                <button>more info</button>
                             </div>
                         </div>
                     </div>
@@ -217,12 +208,12 @@
 
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card">
-                        <img src="images/project3.jpg" class="card-img-top" alt="...">
+                        <img src="images/house-cleaning-worker.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="text">
-                                <h4 class="card-title">Travel Website</h4>
-                                <p class="card-text">UI/UX Aug 9,2021</p>
-                                <button>see project</button>
+                                <h4 class="card-title">House cleaning Services</h4>
+                                <p class="card-text">Last interaction: Aug 9,2021</p>
+                                <button>sMore infot</button>
                             </div>
                         </div>
                     </div>
@@ -230,12 +221,12 @@
 
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card">
-                        <img src="images/project4.jpg" class="card-img-top" alt="...">
+                        <img src="images/house-maid.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="text">
-                                <h4 class="card-title">SaaS Website</h4>
-                                <p class="card-text">Development. May 25 ,2022</p>
-                                <button>see project</button>
+                                <h4 class="card-title">Personal Maid Services</h4>
+                                <p class="card-text">Last Interaction: May 25 ,2022</p>
+                                <button>More infot</button>
                             </div>
                         </div>
                     </div>
@@ -275,7 +266,7 @@
                             <div class="info-box">
                                 <i class="bi bi-envelope"></i>
                                 <h3>Email Us</h3>
-                                <p>bragspot@gmail.com<br>brag@gmail.com</p>
+                                <p>thakurcollege@project.com<br>thakurcollege@gmail.com</p>
                             </div>
                         </div>
                         <div class="col-md-6">

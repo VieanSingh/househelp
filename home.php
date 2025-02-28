@@ -116,8 +116,6 @@ if (!isset($_SESSION['username'])) {
             </div>
         </nav>
     </header>
-
-
     <div class="name">
         <center>Welcome
             <?php
