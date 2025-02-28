@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgba(0, 0, 50, 0.7), rgba(0, 0, 50, 0.7)), url('../images/background.jpg');
+}
+
+.form-box {
+    width: 450px;
+    margin: 50px 10px;
+}
+
+
+.btn {
+    height: 45px;
+    width: 80%;
+    background-color: #2B547E;
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    transition: all 0.3s;
+    padding: 0 15px;
+    margin: auto;
+}
+
+#main-header {
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    color: #2B547E;
+}
+
+button {
+    border-radius: 5px;
+    color: #2B547E;
+
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.form-box hr {
+    background-color: #2B547E;
+    height: 5px;
+    width: 20%;
+    border: none;
+    margin: 5px auto;
+    outline: 0;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.box {
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    padding: 35px 35px;
+    border-radius: 20px;
+    box-shadow: 0 0 128px 0 rgba(0, 0, 0, 0.1), 0 32px 64px -48px rgba(0, 0, 0, 0.5);
+}
